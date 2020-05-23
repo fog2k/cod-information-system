@@ -61,3 +61,5 @@ class Main {
   }
 }
 ```
+
+## [Выполнить программу](https://foginstitution.fog.repl.run/)

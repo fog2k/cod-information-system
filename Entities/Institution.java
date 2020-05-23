@@ -2,7 +2,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
-class Institution implements InstitutionInterface {
+class Institution {
 
   private HashSet<Student> students = new HashSet<Student>();
   private HashSet<Course> courses = new HashSet<Course>();
